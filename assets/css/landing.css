@@ -1,0 +1,95 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: url();
+  }
+  nav{
+    background-color: rgb(82, 78, 78);
+    padding:10px;
+  }
+  .logo{
+   float:right;
+    width: 90px;
+    height: 90px;
+    margin: 20px 100px 20px 50px;
+  }
+  li,a{
+    text-decoration: none;
+  }
+  li{
+    list-style: none;
+    display: inline-block;
+  }
+  nav,ul,li, a{
+    text-align:right ;
+    font: size 20px; ;  
+  }
+  .titulo1{
+    text-align: left;
+    color: rgb(250, 248, 248);
+    font-size: 30px;
+    margin-top:50px;
+    margin-left: 40px;
+    line-height: 0%;
+  }
+  .titulo2{
+    text-align: left;
+    color: rgb(250, 244, 244);
+    font-size: 30px;
+    margin-top: 0%;
+    margin-left: 85px;
+    margin-bottom: 20px;
+  }
+  h1{
+    text-align: center;
+    color: rgb(148, 16, 16);
+    font-size: 50px; 
+  }
+  .texto{
+    display: inline-block;
+  }
+  img{
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 10px 20px 15px 25px;
+  }
+  .texto-2{
+    margin-top: 75px;
+    text-align: left;
+    color: black;
+  }
+  p{
+    margin-top: 10px;
+    text-align: left;
+    color: black;
+  }
+  h3{
+   display: inline-block;
+   margin-bottom: 0%;
+   margin-top: 75px;
+   
+  }
+  
+  section{
+    display: inline-block;
+  }
+  footer{
+    background-color: green;
+    padding: 10px;
+    margin-top: 90px;
+  }
+  footer, a, .contacto{
+    color: rgb(250, 245, 245);
+    text-align: center;
+    margin-left: 20px;
+  
+  }
+  .contacto{
+    font-size: 50px;
+    color: black;
+    display: inline-block;
+    margin-top: 70px;
+  }
+  footer{
+    background-image: url(https://img.freepik.com/foto-gratis/plantilla-web-estudio-diseno-diseno-fondo-naranja-abstracto-informe-comercial-color-degradado-circulo-suave_1258-90246.jpg?size=626&ext=jpg&ga=GA1.2.860592530.1648420801)
+  }
